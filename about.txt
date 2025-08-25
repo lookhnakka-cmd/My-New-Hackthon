@@ -1,0 +1,3 @@
+name:N lookh
+Course:BSC computer science
+GitHub:i learn how to create a acc in GitHub
